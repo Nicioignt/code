@@ -1,2 +1,3 @@
 # code
-Repositório
+## Codigo escolhido
+*newproj/
